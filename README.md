@@ -1,2 +1,2 @@
 # ConvolutionalNeuralNet
-A convolutional neural network for image classification (10 classes)
+In this exercise, I was given a data set that contains 50,000 32x32-pixel RGB images, each corresponding to one of the 10 categories. Using this data, I developed and train a convolutional neural network (CNN) such that it would be able to classify the future images into one of these 10 categories with accuracy above 80%. A set of testing data (10,000 images) was provided to make predictions and test our neural network.
